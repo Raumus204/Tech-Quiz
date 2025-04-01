@@ -12,4 +12,4 @@ npm run test-gui
 npm run test
 
 # Walkthrough Video
-[Watch the walkthrough video](client/public/Screen%20recorder_03-31-2025_23-42-54-966.mp4)
+[Watch the walkthrough video](https://drive.google.com/file/d/1ek_eaBzqx1TL1cIISlHWPe8O1m3cPixN/view)
