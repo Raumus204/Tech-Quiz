@@ -1,0 +1,102 @@
+[
+  {
+    "_id": "1",
+    "question": "What is the output of `console.log(typeof null)` in JavaScript?",
+    "answers": [
+      { "text": "'object'", "isCorrect": true },
+      { "text": "'null'", "isCorrect": false },
+      { "text": "'undefined'", "isCorrect": false },
+      { "text": "'string'", "isCorrect": false }
+    ]
+  },
+  {
+    "_id": "2",
+    "question": "Which of the following is NOT a JavaScript data type?",
+    "answers": [
+      { "text": "String", "isCorrect": false },
+      { "text": "Boolean", "isCorrect": false },
+      { "text": "Float", "isCorrect": true },
+      { "text": "Number", "isCorrect": false }
+    ]
+  },
+  {
+    "_id": "3",
+    "question": "Who created the Python programming language?",
+    "answers": [
+      { "text": "Guido van Rossum", "isCorrect": true },
+      { "text": "Dennis Ritchie", "isCorrect": false },
+      { "text": "James Gosling", "isCorrect": false },
+      { "text": "Bjarne Stroustrup", "isCorrect": false }
+    ]
+  },
+  {
+    "_id": "4",
+    "question": "What does CSS stand for?",
+    "answers": [
+      { "text": "Cascading Style Sheets", "isCorrect": true },
+      { "text": "Computer Style Sheets", "isCorrect": false },
+      { "text": "Creative Style Sheets", "isCorrect": false },
+      { "text": "Colorful Style Sheets", "isCorrect": false }
+    ]
+  },
+  {
+    "_id": "5",
+    "question": "Which HTML tag is used to define an unordered list?",
+    "answers": [
+      { "text": "<ul>", "isCorrect": true },
+      { "text": "<ol>", "isCorrect": false },
+      { "text": "<li>", "isCorrect": false },
+      { "text": "<list>", "isCorrect": false }
+    ]
+  },
+  {
+    "_id": "6",
+    "question": "Which of the following is a JavaScript framework?",
+    "answers": [
+      { "text": "React", "isCorrect": true },
+      { "text": "Laravel", "isCorrect": false },
+      { "text": "Django", "isCorrect": false },
+      { "text": "Flask", "isCorrect": false }
+    ]
+  },
+  {
+    "_id": "7",
+    "question": "What is the purpose of the `git init` command?",
+    "answers": [
+      { "text": "Initialize a new Git repository", "isCorrect": true },
+      { "text": "Clone an existing Git repository", "isCorrect": false },
+      { "text": "Commit changes to a repository", "isCorrect": false },
+      { "text": "Push changes to a remote repository", "isCorrect": false }
+    ]
+  },
+  {
+    "_id": "8",
+    "question": "Which of the following is used to declare a variable in JavaScript?",
+    "answers": [
+      { "text": "var", "isCorrect": false },
+      { "text": "let", "isCorrect": false },
+      { "text": "const", "isCorrect": false },
+      { "text": "All of the above", "isCorrect": true }
+    ]
+  },
+  {
+    "_id": "9",
+    "question": "What is the correct syntax to import a module in Python?",
+    "answers": [
+      { "text": "import module_name", "isCorrect": true },
+      { "text": "include module_name", "isCorrect": false },
+      { "text": "require module_name", "isCorrect": false },
+      { "text": "using module_name", "isCorrect": false }
+    ]
+  },
+  {
+    "_id": "10",
+    "question": "Which of the following is a relational database?",
+    "answers": [
+      { "text": "MySQL", "isCorrect": true },
+      { "text": "MongoDB", "isCorrect": false },
+      { "text": "Redis", "isCorrect": false },
+      { "text": "Cassandra", "isCorrect": false }
+    ]
+  }
+]
